@@ -7,3 +7,4 @@ Kia Optima
 Mercedes S500
 Lexus GX470
 Mazda 3
+Honda Civic
