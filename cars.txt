@@ -9,3 +9,4 @@ Lexus GX470
 Mazda 3
 Honda Civic
 Subaru WRX
+Range Rover Velar
